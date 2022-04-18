@@ -19,6 +19,7 @@ to present. The general structure of the repo is as follows:
 [ROOT]
  |
  |-- [lectures]
+       |
        |-- [TOPIC 1]
             |
             |-- README.md (Lecture notes)
