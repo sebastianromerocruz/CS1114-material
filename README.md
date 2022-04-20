@@ -58,6 +58,7 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 20. [**File IO Review**](lectures/files_review/)
 21. [**Python Dictionaries**](lectures/dictionaries/)
 22. [**Midterm 2 Review**](lectures/midterm_2_review/)
+23. [**Dictionary Methods and Iteration**](lectures/dictionary_methods/)
 
 ---
 
