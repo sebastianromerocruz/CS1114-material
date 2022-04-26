@@ -30,7 +30,7 @@ to present. The general structure of the repo is as follows:
 That is, each [**lecture**](#Lectures) sub-folder contains a lecture notes `README` file along with its supplementary
 `py` files and other assets.
 
-**Note**: Use and/or distributions of this material outside of this class is legally restricted by [**university
+**Note**: Use and/or distribution of this material outside of this class is legally restricted by [**university
 policy**](https://guides.nyu.edu/copyright/nyupermissions). If you want to use it for any reason other than as a study
 resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subject line `CS1114 Repo Use Request`.
 
@@ -59,6 +59,7 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 21. [**Python Dictionaries**](lectures/dictionaries/)
 22. [**Midterm 2 Review**](lectures/midterm_2_review/)
 23. [**Dictionary Methods and Iteration**](lectures/dictionary_methods/)
+24. [**Intro to Object-Oriented Programming**](lectures/oop_1/)
 
 ---
 
