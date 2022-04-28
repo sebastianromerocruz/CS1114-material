@@ -60,6 +60,7 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 22. [**Midterm 2 Review**](lectures/midterm_2_review/)
 23. [**Dictionary Methods and Iteration**](lectures/dictionary_methods/)
 24. [**Intro to Object-Oriented Programming**](lectures/oop_1/)
+25. [**Intro to Object-Oriented Programming: Methods and the `__str__()` Method**](lectures/oop_2/)
 
 ---
 
