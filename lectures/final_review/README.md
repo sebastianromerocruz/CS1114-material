@@ -114,3 +114,7 @@ Output:
 ['Fryderyk', 5, 'normal']
 ['Fryderyk', 'Flareon', 5, 'fire']
 ```
+
+---
+
+[**Solution**](solution/eevee.py)
