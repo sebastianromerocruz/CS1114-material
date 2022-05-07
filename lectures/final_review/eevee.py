@@ -1,16 +1,16 @@
 INFO_PER_STONE = {
-    # Water stone information
     "water_stone": {
+        # Water stone information
         "eeveelution": "Vaporeon",
         "type": "water"
     },
-    # Thunder stone information
     "thunder_stone": {
+        # Thunder stone information
         "eeveelution": "Jolteon",
         "type": "electric"
     },
-    # Fire stone information
     "fire_stone": {
+        # Fire stone information
         "eeveelution": "Flareon",
         "type": "fire"
     }

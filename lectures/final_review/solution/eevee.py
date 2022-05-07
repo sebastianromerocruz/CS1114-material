@@ -1,17 +1,17 @@
 VALUE_IDX = 1
 INFO_PER_STONE = {
-    # Water stone information
     "water_stone": {
+        # Water stone information
         "eeveelution": "Vaporeon",
         "type": "water"
     },
-    # Thunder stone information
     "thunder_stone": {
+        # Thunder stone information
         "eeveelution": "Jolteon",
         "type": "electric"
     },
-    # Fire stone information
     "fire_stone": {
+        # Fire stone information
         "eeveelution": "Flareon",
         "type": "fire"
     }
@@ -48,13 +48,17 @@ class Eevee:
 
         file.close()
 
+    def can_evolve(self, stone_name):
+        """
+        As per the prompt, we DON'T evolve if:
+            - eeveelution_status is None, or
+            - stone_name is not either "water_stone", "electric_stone", or "fire_stone".
+        """
+        return (not self.eeveelution_status) and (stone_name in INFO_PER_STONE)
+
     def evolve(self, stone_name):
-        if self.eeveelution_status or stone_name not in INFO_PER_STONE:
-            """
-            As per the prompt, we DON'T evolve if:
-                - eeveelution_status is None, or
-                - stone_name is not either "water_stone", "electric_stone", or "fire_stone".
-            """
+        # Check if Eevee can evolve first
+        if not self.can_evolve(stone_name):
             return
 
         """

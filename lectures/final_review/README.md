@@ -45,36 +45,39 @@ opened.
 
 ---
 
-The `Eevee` class will have an instance method associated to it called `evolve()` (_**sig**: `str` => `None`_). 
-`evolve()` will accept one parameter, `stone_name`, a string containing the name of the evolutionary stone that the user
-wishes to give to this `Eevee` object. When appropriately called, `evolve()` will update the `eeveelution_status` and 
-`type` of the `Eevee` object **if and only if**:
+The `Eevee` class will have three instance methods associated to it. The first `can_evolve()` (_**sig**: `str` =>
+`bool`_), will accept one string parameter, `stone_name`, a string containing the name of the evolutionary stone that
+the user wishes to give to this `Eevee` object. `can_evolve()` will then return `True` **if and only if**:
 
 1. The `Eevee` object is un-evolved,
-2. The `stone_name` is one of the three valid evolutionary stones mentioned above
+2. The `stone_name` is one of the three valid evolutionary stones mentioned above.
 
-Once this method is called, the `eeveelution_status` and the `type` of the `Eevee` object will change to their 
-appropriate new values.
+If either of these conditions is not met, `can_evolve()` will return `False`.
 
-You may assume that the following dictionary is already defined at the top of your file, which you may use if you find 
-it useful:
+---
+
+Next, define a method called `evolve()` (_**sig**: `str` => `None`_). `evolve()` will accept one parameter,
+`stone_name`, a string containing the name of the evolutionary stone that the user wishes to give to this `Eevee`
+object. If the `Eevee` object meets all conditions necessary to evolve, `evolve()` will update the `eeveelution_status`
+and `type` of the `Eevee` object to their appropriate new values.
+
+To make this a little simpler, you may assume that the following dictionary is already defined at the top of your file,
+which you may use if you find it useful (in other words, you **don't** have to use it if you don't find it useful):
 
 ```python
 INFO_PER_STONE = {
-    # Water stone information
     "water_stone": {
+        # Water stone information
         "eeveelution": "Vaporeon",
         "type": "water"
     },
-    
-    # Thunder stone information
     "thunder_stone": {
+        # Thunder stone information
         "eeveelution": "Jolteon",
         "type": "electric"
     },
-    
-    # Fire stone information
     "fire_stone": {
+        # Fire stone information
         "eeveelution": "Flareon",
         "type": "fire"
     }
@@ -83,7 +86,7 @@ INFO_PER_STONE = {
 
 ---
 
-Next, define a `get_stats()` method (_**sig**: `None` => `list`_) that will return a list of the values of all the object's non-`None` attributes. If
+Finally, define a `get_stats()` method (_**sig**: `None` => `list`_) that will return a list of the values of all the object's non-`None` attributes. If
 you can, do this using list comprehension—only then will you become a Python deity.
 
 ---
