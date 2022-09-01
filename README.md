@@ -12,8 +12,7 @@ A literal repository of CS-UY 1114 lecture material.
 
 ### How To Use This Repo
 
-This repository contains Prof. Sebastián Romero Cruz's from CS 1114 lecture notes and problems used from Spring 2020
-to present. The general structure of the repo is as follows:
+This repository contains Prof. Sebastián Romero Cruz's CS 1114 lecture notes and problems. The general structure of the repo is as follows:
 
 ```
 [ROOT]
@@ -36,7 +35,11 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 
 ### Lectures
 
+<sub>To be released on a weekly basis.</sub>
+
 1. [**Introduction**](lectures/introduction/)
+
+<!--
 2. [**Programming Fundamentals 1**](lectures/fundamentals_1/)
 3. [**Programming Fundamentals 2**](lectures/fundamentals_2/)
 4. [**Program Input and Number Systems**](lectures/input_number_systems/)
@@ -63,7 +66,7 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 25. [**Intro to Object-Oriented Programming: Methods and the `__str__()` Method**](lectures/oop_2/)
 26. [**Intro to Object-Oriented Programming: Dunder / "Magic" Methods**](lectures/oop_3/)
 27. [**Comprehensions**](lectures/comprehensions/)
-28. [**Final Exam Review**](lectures/final_review/)
+28. [**Final Exam Review**](lectures/final_review/) -->
 
 ---
 
