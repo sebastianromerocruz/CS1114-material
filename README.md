@@ -1,18 +1,14 @@
-# CS-UY 1114 Material
+<h1 align=center>CS-UY 1114 Material</h1>
 
-## NYU Tandon School of Engineering
-
----
+<h2 align=center>NYU Tandon School of Engineering</h2>
 
 ### Description
 
-A literal repository of CS-UY 1114 lecture material.
-
----
+This repository contains Prof. Sebastián Romero Cruz's CS 1114 lecture notes and practice problems.
 
 ### How To Use This Repo
 
-This repository contains Prof. Sebastián Romero Cruz's CS 1114 lecture notes and problems. The general structure of the repo is as follows:
+The general structure of the repo is as follows:
 
 ```
 [ROOT]

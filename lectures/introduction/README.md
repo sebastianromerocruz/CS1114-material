@@ -1,6 +1,6 @@
-## Lecture 01
+<h2 align=center>Lecture 01</h2>
 
-# Introduction
+<h1 align=center>Introduction</h1>
 
 ### September 7th, 2022
 
