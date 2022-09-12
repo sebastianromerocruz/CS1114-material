@@ -8,22 +8,23 @@ This repository contains Prof. Sebastián Romero Cruz's CS 1114 lecture notes an
 
 ### How To Use This Repo
 
-The general structure of the repo is as follows:
+The current structure of the repo is as follows:
 
 ```
-[ROOT]
- |
- |-- [lectures]
-       |
-       |-- [TOPIC 1]
-            |
-            |-- README.md (Lecture notes)
-            |-- [assets] (Usually images used in the lecture notes
-            |-- lecture_material.py (Usually one or more Python file contained in the lecture notes)
+.
+├── README.md
+└── lectures
+    ├── fundamentals_1
+    │   ├── README.md
+    │   ├── assets
+    │   └── hello_world.py
+    └── introduction
+        ├── README.md
+        └── README.pdf
 ```
 
 That is, each [**lecture**](#Lectures) sub-folder contains a lecture notes `README` file along with its supplementary
-`py` files and other assets.
+`py` files and other assets (such as images, etc.).
 
 **Note**: Use and/or distribution of this material outside of this class is legally restricted by [**university
 policy**](https://guides.nyu.edu/copyright/nyupermissions). If you want to use it for any reason other than as a study
@@ -31,12 +32,12 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 
 ### Lectures
 
-<sub>To be released on a weekly basis.</sub>
+<sub>To be released every Monday and Wednesday after 5pm.</sub>
 
 1. [**Introduction**](lectures/introduction/)
+2. [**Programming Fundamentals 1**](lectures/fundamentals_1/)
 
 <!--
-2. [**Programming Fundamentals 1**](lectures/fundamentals_1/)
 3. [**Programming Fundamentals 2**](lectures/fundamentals_2/)
 4. [**Program Input and Number Systems**](lectures/input_number_systems/)
 5. [**Python Modules**](lectures/modules/)
