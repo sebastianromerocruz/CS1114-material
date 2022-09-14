@@ -14,13 +14,18 @@ The current structure of the repo is as follows:
 .
 ├── README.md
 └── lectures
+    ├── introduction
+    │   ├── README.md
+    │   └── README.pdf
     ├── fundamentals_1
     │   ├── README.md
     │   ├── assets
     │   └── hello_world.py
-    └── introduction
+    └── fundamentals_2
         ├── README.md
-        └── README.pdf
+        ├── assets
+        ├── volume_of_cone.py
+        └── course_number.py
 ```
 
 That is, each [**lecture**](#Lectures) sub-folder contains a lecture notes `README` file along with its supplementary
@@ -36,9 +41,9 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 
 1. [**Introduction**](lectures/introduction/)
 2. [**Programming Fundamentals 1**](lectures/fundamentals_1/)
+3. [**Programming Fundamentals 2**](lectures/fundamentals_2/)
 
 <!--
-3. [**Programming Fundamentals 2**](lectures/fundamentals_2/)
 4. [**Program Input and Number Systems**](lectures/input_number_systems/)
 5. [**Python Modules**](lectures/modules/)
 6. [**Debugging and Reading Others' Code**](lectures/debugging/)
