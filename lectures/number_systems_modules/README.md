@@ -4,7 +4,7 @@
 
 ### 2 Jour du Génie, Year CCXXX
 
-***Song of the day***: _[**Rally, Rally (fear. Pii & meiyo)**](https://youtu.be/URTXJGhLcog) by MAISONdes (2021)._
+***Song of the day***: _[**Esquisse**](https://youtu.be/hcGsPuAMZI8) by 鬼頭明里 Akari Kitou (2022)._
 
 ### Sections:
 
