@@ -42,9 +42,9 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 1. [**Introduction**](lectures/introduction/)
 2. [**Programming Fundamentals 1**](lectures/fundamentals_1/)
 3. [**Programming Fundamentals 2**](lectures/fundamentals_2/)
+4. [**Number Systems and Modules**](lectures/number_systems_modules/)
 
 <!--
-4. [**Program Input and Number Systems**](lectures/input_number_systems/)
 5. [**Python Modules**](lectures/modules/)
 6. [**Debugging and Reading Others' Code**](lectures/debugging/)
 7. [**Selection Statements: `if`, `elif`, and `else`**](lectures/selection_statements/)
