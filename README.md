@@ -21,11 +21,16 @@ The current structure of the repo is as follows:
     │   ├── README.md
     │   ├── assets
     │   └── hello_world.py
-    └── fundamentals_2
+    ├── fundamentals_2
+    │   ├── README.md
+    │   ├── assets
+    │   ├── volume_of_cone.py
+    │   └── course_number.py
+    └── number_systems
         ├── README.md
         ├── assets
-        ├── volume_of_cone.py
-        └── course_number.py
+        ├── course_number.py
+        └── student_body.py
 ```
 
 That is, each [**lecture**](#Lectures) sub-folder contains a lecture notes `README` file along with its supplementary
@@ -43,9 +48,9 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 2. [**Programming Fundamentals 1**](lectures/fundamentals_1/)
 3. [**Programming Fundamentals 2**](lectures/fundamentals_2/)
 4. [**Number Systems**](lectures/number_systems/)
+5. [**Python Modules and Boolean Expressions**](lectures/modules_boolean/)
 
 <!--
-5. [**Python Modules**](lectures/modules/)
 6. [**Debugging and Reading Others' Code**](lectures/debugging/)
 7. [**Selection Statements: `if`, `elif`, and `else`**](lectures/selection_statements/)
 8. [**Control-Flow Structures: The `while`-Loop**](lectures/while_loops/)
