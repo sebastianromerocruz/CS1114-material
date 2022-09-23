@@ -188,7 +188,7 @@ expand it to include negation (negative numbers) : P.E.N.M.D.A.S. (very catchy):
 1. **P**: Parentheses `()`
 2. **E**: Exponentiation `**`
 3. **N**: Negation `-`
-4. **M**: Modulus `*`; **D**: Division `/`; **I**: Integer division `//`; **M**: Multiplication `%`; **A**: Addition `+`; **S**: Substraction `-`
+4. **M**: Multiplication `*`; **D**: Division `/`; **I**: Integer division `//`; **M**: Modulus `%`; **A**: Addition `+`; **S**: Substraction `-`
 
 For example:
 

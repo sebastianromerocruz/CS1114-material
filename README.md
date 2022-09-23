@@ -26,11 +26,18 @@ The current structure of the repo is as follows:
     │   ├── assets
     │   ├── volume_of_cone.py
     │   └── course_number.py
-    └── number_systems
+    ├── number_systems
+    │   ├── README.md
+    │   ├── assets
+    │   ├── course_number.py
+    │   └── student_body.py
+    └── modules_boolean
         ├── README.md
         ├── assets
-        ├── course_number.py
-        └── student_body.py
+        ├── coin_flip.py
+        ├── random_integers.py
+        ├── student_body.py
+        └── volume_of_cone.py
 ```
 
 That is, each [**lecture**](#Lectures) sub-folder contains a lecture notes `README` file along with its supplementary
