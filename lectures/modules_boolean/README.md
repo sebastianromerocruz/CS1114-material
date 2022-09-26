@@ -6,6 +6,12 @@
 
 ***Song of the day***: _[**A Song For You**](https://youtu.be/91K2jpmwj9o) by Donny Hathaway (1971)._
 
+### Sections
+
+1. [The `math` Module](#part-1-the-math-module)
+2. [The `random` Module](#part-2-the-random-module)
+3. [Boolean Expressions](#part-3-boolean-expressions)
+
 ### Part 1: _The `math` Module_
 
 You know how, in a previous lecture, I asked you to calculate the volume of a cone? For many mathematical operations, we
