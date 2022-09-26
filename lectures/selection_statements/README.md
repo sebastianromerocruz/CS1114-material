@@ -185,8 +185,8 @@ the complementary statement to `if`: the `else`-statement:
 CURRENT_YEAR = 2022
 AMERICAN_DRINKING_AGE = 21
 
-user_age = int(input("What year were you born in? "))
-difference = CURRENT_YEAR - user_age  # here, we assume that the input will always <= 2022
+user_birth_year = int(input("What year were you born in? "))
+difference = CURRENT_YEAR - user_birth_year  # here, we assume that the input will always <= 2022
 
 if difference >= AMERICAN_DRINKING_AGE:
     print("Welcome!")

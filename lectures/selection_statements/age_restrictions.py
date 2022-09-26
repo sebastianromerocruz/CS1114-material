@@ -1,10 +1,10 @@
 CURRENT_YEAR = 2022
 AMERICAN_DRINKING_AGE = 21
 
-user_age = int(input("What year were you born in? "))
-difference = CURRENT_YEAR - user_age
+user_birth_year = int(input("What year were you born in? "))
+difference = CURRENT_YEAR - user_birth_year
 
-if user_age < 0:
+if user_birth_year < 0:
     print("Invalid input")
 elif difference < 0:
     print("No entry for unborn users.")
