@@ -281,7 +281,7 @@ Please enter positive values under 100.0
 
 ### Part 3: _`elif`-Statements_
 
-<!-- I actually think we can do better that the implementation above. Especially with ranges, you might have a specific set
+I actually think we can do better that the implementation above. Especially with ranges, you might have a specific set
 of instructions execute if "condition 1" is true, a different set if "condition 2" is true, a third set if "condition 3"
 is true, etc.. A lot of "choices" in programming and software development are not simply binary, but rather can include 
 three, four, or even thousands of different paths depending on the situation. For example, let's go back to our 
@@ -352,15 +352,11 @@ Output:
 ```commandline
 What year were you born in? 2030
 No entry for unborn users.
-``` -->
-
-<sub>_Coming Soon (9/28)_</sub>
+```
 
 ### Part 4: _Common Mistakes_
 
-<sub>_Coming Soon (9/28)_</sub>
-
-<!-- Two things happen rather often when first starting out with branching.
+Two things happen rather often when first starting out with branching.
 
 ---
 
@@ -441,4 +437,4 @@ No entry for underage users.
 
 What went wrong? The problem here is that **every time Python sees an `if`-statement, it will execute it**. In other 
 words, using only `if`-statements is not like taking a single path of a series of option, but rather like taking several
-single paths of only two options. -->
+single paths of only two options.
