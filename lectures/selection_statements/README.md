@@ -1,6 +1,6 @@
-## Lecture 06
+<h2 align=center>Lecture 06</h2>
 
-# Selection Statements: `if`, `elif`, and `else`.
+<h1 align=center>Selection Statements: <code>if</code>, <code>elif</code>, and <code>else</code>.</h1>
 
 ### 4 Vendémiaire, Year CCXXXI
 
