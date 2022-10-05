@@ -31,13 +31,27 @@ The current structure of the repo is as follows:
     │   ├── assets
     │   ├── course_number.py
     │   └── student_body.py
-    └── modules_boolean
+    ├── modules_boolean
+    │   ├── README.md
+    │   ├── assets
+    │   ├── coin_flip.py
+    │   ├── random_integers.py
+    │   ├── student_body.py
+    │   └── volume_of_cone.py
+    ├── selection_statements
+    │   ├── README.md
+    │   ├── age_restrictions.py
+    │   ├── assets
+    │   └── quiz_one.py
+    ├── while_loops
+    │   ├── README.md
+    │   ├── assets
+    │   ├── game_over.py
+    │   ├── new_life.py
+    │   └── sound_euphonium.py
+    └── for_loops
         ├── README.md
-        ├── assets
-        ├── coin_flip.py
-        ├── random_integers.py
-        ├── student_body.py
-        └── volume_of_cone.py
+        └── turns.py
 ```
 
 That is, each [**lecture**](#Lectures) sub-folder contains a lecture notes `README` file along with its supplementary
@@ -59,10 +73,9 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 6. [**Selection Statements: `if`, and `else`**](lectures/selection_statements/)
 7. [**Selection Statements: `elif` and Common Mistakes**](lectures/selection_statements#part-3-elif-statements)
 8. [**Control-Flow Structures: The `while`-Loop**](lectures/while_loops/)
+9. [**Control-Flow Structures: The `for`-Loop**](lectures/for_loops/)
 
 <!--
-8. [**Control-Flow Structures: The `while`-Loop**](lectures/while_loops/)
-9. [**Control-Flow Structures: The `for`-Loop**](lectures/for_loops/)
 10. [**Loops Review and Strings as Sequences**](lectures/string_sequences/)
 11. [**Manipulating Strings**](lectures/manipulating_strings/)
 12. [**Midterm 1 Review (_Arpeggiator_)**](lectures/midterm_1_review/)
