@@ -49,9 +49,13 @@ The current structure of the repo is as follows:
     │   ├── game_over.py
     │   ├── new_life.py
     │   └── sound_euphonium.py
-    └── for_loops
+    ├── for_loops
+    │   ├── README.md
+    │   └── turns.py
+    └── string_sequences
+        ├── CLASSWORK.md
         ├── README.md
-        └── turns.py
+        └── game_loop.py
 ```
 
 That is, each [**lecture**](#Lectures) sub-folder contains a lecture notes `README` file along with its supplementary
@@ -74,9 +78,9 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 7. [**Selection Statements: `elif` and Common Mistakes**](lectures/selection_statements#part-3-elif-statements)
 8. [**Control-Flow Structures: The `while`-Loop**](lectures/while_loops/)
 9. [**Control-Flow Structures: The `for`-Loop**](lectures/for_loops/)
+10. [**Loops Review and Strings as Sequences**](lectures/string_sequences/)
 
 <!--
-10. [**Loops Review and Strings as Sequences**](lectures/string_sequences/)
 11. [**Manipulating Strings**](lectures/manipulating_strings/)
 12. [**Midterm 1 Review (_Arpeggiator_)**](lectures/midterm_1_review/)
 13. [**Strings Review**](lectures/strings_review/)
