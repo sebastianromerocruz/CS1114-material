@@ -79,9 +79,9 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 8. [**Control-Flow Structures: The `while`-Loop**](lectures/while_loops/)
 9. [**Control-Flow Structures: The `for`-Loop**](lectures/for_loops/)
 10. [**Loops Review and Strings as Sequences**](lectures/string_sequences/)
+11. [**Manipulating Strings**](lectures/manipulating_strings/)
 
 <!--
-11. [**Manipulating Strings**](lectures/manipulating_strings/)
 12. [**Midterm 1 Review (_Arpeggiator_)**](lectures/midterm_1_review/)
 13. [**Strings Review**](lectures/strings_review/)
 14. [**Functions: Parameters**](lectures/functions_parameters/)
