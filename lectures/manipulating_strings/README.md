@@ -2,7 +2,7 @@
 
 # Manipulating Strings
 
-### 20 Vendémiare, Year CCXXXI
+### 20 Vendémiaire, Year CCXXXI
 
 ***Song of the day:*** _[**Heroine**](https://youtu.be/F4qfN5UeFvQ) by Sunmi (2018)._
 

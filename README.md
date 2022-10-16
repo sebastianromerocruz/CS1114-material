@@ -52,10 +52,24 @@ The current structure of the repo is as follows:
     ├── for_loops
     │   ├── README.md
     │   └── turns.py
-    └── string_sequences
-        ├── CLASSWORK.md
+    ├── string_sequences
+    │   ├── CLASSWORK.md
+    │   ├── README.md
+    │   └── game_loop.py
+    ├── manipulating_strings
+    │   ├── README.md
+    │   ├── REVIEW.md
+    │   ├── assets
+    │   │   └── ascii-table-alpharithms-scaled.jpg
+    │   ├── membership.py
+    │   └── value_of_words.py
+    └── strings_review
         ├── README.md
-        └── game_loop.py
+        ├── flow.py
+        ├── is_valid_chord.py
+        └── solution
+            ├── flow.py
+            └── is_valid_chord.py
 ```
 
 That is, each [**lecture**](#Lectures) sub-folder contains a lecture notes `README` file along with its supplementary

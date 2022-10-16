@@ -6,6 +6,14 @@
 
 ***Song of the day***: _[**So What**](https://youtu.be/zqNTltOGh5c) by Miles Davis (1959)._
 
+### Sections
+
+1. [**Review: _Game Programming 101_**](#part-0-review-game-programming-101)
+2. [**Strings As Sequences**](#part-1-strings-as-sequences)
+3. [**String Comparison**](#part-2-string-comparison)
+4. [**The `in` Operator**](#part-3-the-in-operator)
+5. [**Special Characters And `print`'s `end` Parameter**](#part-4-special-characters-and-prints-end-parameter)
+
 ### Part 0 (Review): _Game Programming 101_
 
 In game programming, your standard game loop looks as follows:
