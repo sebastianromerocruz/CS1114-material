@@ -6,6 +6,8 @@
 
 ***Song of the day:*** _[**君よ 気高くあれ (You, Be Noble)**](https://youtu.be/fiRTKoWiS5s) by Shiyui (2022)._
 
+[***SOLUTION***](solution/is_valid_chord.py)
+
 In music, there are many ways to play chords. For example, the most typical chords in popular music include:
 
 - C-major
