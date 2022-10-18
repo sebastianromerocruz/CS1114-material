@@ -95,9 +95,9 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 10. [**Loops Review and Strings as Sequences**](lectures/string_sequences/)
 11. [**Manipulating Strings**](lectures/manipulating_strings/)
 12. [**Strings Review**](lectures/strings_review/)
+13. [**Midterm 1 Review (_Read Between The Lines_)**](lectures/midterm_1_review/)
 
 <!--
-13. [**Midterm 1 Review (_Arpeggiator_)**](lectures/midterm_1_review/)
 14. [**Functions: Parameters**](lectures/functions_parameters/)
 15. [**Functions: `return`**](lectures/functions_return/)
 16. [**Lists**](lectures/lists/)
