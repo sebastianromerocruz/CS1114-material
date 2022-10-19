@@ -1,6 +1,6 @@
 <h2 align=center>Lecture 13<h2>
 
-<h1 align=center><strong>Midterm 1 Review</string>: Read Between The Lines</h1>
+<h1 align=center><strong>Midterm 1 Review</strong>: Read Between The Lines</h1>
 
 ### 27 Vendémiaire, Year CCXXXI
 
