@@ -10,8 +10,6 @@
 
 1. [**The Problem**](#part-1-the-problem)
 2. [**The Solution**](#part-2-the-solution)
-    1. [**The Indexing Solution**](#the-indexing-solution)
-    2. [**The Slicing Solution**](#the-slicing-solution)
 
 ### Part 1: _The Problem_
 
@@ -52,9 +50,7 @@ You may assume that both user inputs will always be valid ones. You may **not** 
 
 This problem is a tough one, but it's really good practice if you want to get good at indexing, string slicing, or both.
 
-The first thing to recognise here is that your final, decoded message will be an altered, _reversed_ version of the original. This tells us that we'll be using a negative step in either the `range()` function or in string slicing. Let's consider the `range()` alternative first.
-
-#### ***The Indexing Solution***
+The first thing to recognise here is that your final, decoded message will be an altered, _reversed_ version of the original. This tells us that we'll be using a negative step in either the `range()` function.
 
 Since we're not allowed to use the `reverse()` string method, we have to traverse the string backwards. We know that we can generate a sequence of backwards numbers using `range()`. The question is what the arguments are. 
 
@@ -99,51 +95,3 @@ python!
 ```
 
 Perfect. You can find this whole solution [**here**](solution/indexing_solution.py).
-
-### ***The Slicing Solution***
-
-The slicing solution is actually really similar. The first step is to cleanse the encoded message from all numerical characters first:
-
-```python
-for char in encoded_message:
-    if not char.isdigit():
-        decoded_message += char
-```
-
-`decoded_message`, after this, looks as follows:
-
-```
-!thnsdosdhdftgyyrop
-```
-
-From here, we basically use almost the same value we used as arguments for the `range()` function as arguments for our slicing:
-
-```python
-start = len(decoded_message) - 1
-step = -1 * (key + 1)
-
-decoded_message = decoded_message[start::step]
-```
-
-The value of `decoded_message` would thus be:
-
-```
-python!
-```
-
-If you tries doing `decoded_message[start:-1:step]` instead, you would get the following:
-
-```
-''
-```
-
-I.e., an empty string. Why? This is a good time to remember that negative numbers in indexing represent _indexing starting from the end of the string_. Therefore, by doing `decoded_message[start:-1:step]`, we're asking it to start _and_ to end at the last index of the string. By leaving the field empty, the slicing mechanism will assume that you want to end at the beginning, which is what we want. We can thus rewrite the slicing as follows:
-
-```python
-start = -1              # the negative-first index is the last index of a sequence
-step = -1 * (key + 1)   # this step is the same
-
-decoded_message = decoded_message[start::step]
-```
-
-You can find this full solution [**here**](solution/slicing_solution.py).
