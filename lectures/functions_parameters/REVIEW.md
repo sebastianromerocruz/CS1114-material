@@ -6,6 +6,15 @@
 
 ***Song of the day:*** _[**Body Talk**](https://youtu.be/Oo_NIdBUzMU) by Red Velvet (2017)._
 
+### Sections
+
+1. [**The Super Entertaining and Basic (S.E.B) Calculator**](#part-1-the-super-entertaining-and-basic-seb-calculator)
+    1. [**Introduction**](#introduction)
+    2. [**`add()`, `subtract()`, `multiply()`, and `divide()`**](#step-1-add-subtract-multiply-and-divide)
+    3. [**`do_arithmetic()`**](#step-2-do_arithmetic)
+    3. [**Our Driver Function, `main()`**](#step-3-our-driver-function-main)
+    4. [**Run The Program**](#step-4-run-the-program)
+
 ### Part 1: _The Super Entertaining and Basic (S.E.B) Calculator._
 
 #### ***Introduction***
