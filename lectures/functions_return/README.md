@@ -1,6 +1,6 @@
-## Lecture 15
+<h2 align=center>Lecture 15</h2>
 
-# The `return` Statement
+<h1 align=center>The `return` Statement</h1>
 
 ### 4 Brumaire, Year CCXXXI
 
@@ -94,6 +94,8 @@ Enter a non-whitespace, non-alphanumeric character: /
  ///////
 /////////
 ```
+
+[**Here's**](solution/christmastime.py) the full solution.
 
 ### Part 1: _The `print()` Function's Parameters and Default Parameters_
 
