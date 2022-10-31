@@ -178,9 +178,9 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
     - [**Loops and Strings Practice**](practice/loops/)
 14. [**Functions: Parameters**](lectures/functions_parameters/)
 15. [**Functions: `return`**](lectures/functions_return/)
+16. [**Lists**](lectures/lists/)
 
 <!--
-16. [**Lists**](lectures/lists/)
 17. [**Memory Maps**](lectures/memory_maps/)
 18. [**File Input**](lectures/file_input/)
 19. [**File Output**](lectures/file_output/)
