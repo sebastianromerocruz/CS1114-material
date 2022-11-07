@@ -179,9 +179,9 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 14. [**Functions: Parameters**](lectures/functions_parameters/)
 15. [**Functions: `return`**](lectures/functions_return/)
 16. [**Lists**](lectures/lists/)
+17. [**Memory Maps**](lectures/memory_maps/)
 
 <!--
-17. [**Memory Maps**](lectures/memory_maps/)
 18. [**File Input**](lectures/file_input/)
 19. [**File Output**](lectures/file_output/)
 20. [**File IO Review**](lectures/files_review/)
