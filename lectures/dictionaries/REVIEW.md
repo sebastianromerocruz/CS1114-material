@@ -1,6 +1,6 @@
-## Lecture 18
+<h2>Lecture 18</h2>
 
-# Beyond Sequences: The Python Dictionary
+<h1>Beyond Sequences: The Python Dictionary</h1>
 
 ### 17 Brumaire, Year CCXXXI
 

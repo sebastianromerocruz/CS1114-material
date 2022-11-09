@@ -14,7 +14,7 @@ def extract_preferences(data):
     Extracts user preferences from a CSV file. Uses zeroth element in each line as key, and first element as value.
     Assumes all lines are valid entries. If file not found, returns an empty dictionary.
 
-    :param filepath: Address of CSV file in string form
+    :param data: Mock CSV data in the form of a multi-line string
     :return: A dictionary of preferences
     """
     pass
