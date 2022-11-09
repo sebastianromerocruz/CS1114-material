@@ -180,14 +180,14 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 15. [**Functions: `return`**](lectures/functions_return/)
 16. [**Lists**](lectures/lists/)
 17. [**Memory Maps**](lectures/memory_maps/)
+18. [**Python Dictionaries**](lectures/dictionaries/)
+19. [**Dictionary Methods and Iteration**](lectures/dictionary_methods/)
 
 <!--
 18. [**File Input**](lectures/file_input/)
 19. [**File Output**](lectures/file_output/)
 20. [**File IO Review**](lectures/files_review/)
-21. [**Python Dictionaries**](lectures/dictionaries/)
 22. [**Midterm 2 Review**](lectures/midterm_2_review/)
-23. [**Dictionary Methods and Iteration**](lectures/dictionary_methods/)
 24. [**Intro to Object-Oriented Programming**](lectures/oop_1/)
 25. [**Intro to Object-Oriented Programming: Methods and the `__str__()` Method**](lectures/oop_2/)
 26. [**Intro to Object-Oriented Programming: Dunder / "Magic" Methods**](lectures/oop_3/)
