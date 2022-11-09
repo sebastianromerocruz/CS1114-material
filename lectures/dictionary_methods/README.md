@@ -1,6 +1,6 @@
-<h2>Lecture 19</h2>
+<h2 align=center>Lecture 19</h2>
 
-<h1>Dictionary Methods and Iteration</h1>
+<h1 align=center>Dictionary Methods and Iteration</h1>
 
 ### 18 Brumaire, Year CCXXXI
 
