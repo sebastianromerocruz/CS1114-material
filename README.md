@@ -182,9 +182,10 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 17. [**Memory Maps**](lectures/memory_maps/)
 18. [**Python Dictionaries**](lectures/dictionaries/)
 19. [**Dictionary Methods and Iteration**](lectures/dictionary_methods/)
+20. [**File Input**](lectures/file_input/)
+
 
 <!--
-18. [**File Input**](lectures/file_input/)
 19. [**File Output**](lectures/file_output/)
 20. [**File IO Review**](lectures/files_review/)
 22. [**Midterm 2 Review**](lectures/midterm_2_review/)
