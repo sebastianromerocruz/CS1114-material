@@ -8,143 +8,21 @@ This repository contains Prof. Sebastián Romero Cruz's CS 1114 lecture notes an
 
 ### How To Use This Repo
 
-The current structure of the repo is as follows:
+The general structure of the repo is as follows:
 
 ```
 .
 ├── LICENSE
 ├── README.md
 ├── lectures
-│   ├── for_loops
-│   │   ├── README.md
-│   │   ├── README.pdf
-│   │   └── turns.py
-│   ├── functions_parameters
-│   │   ├── README.md
-│   │   ├── README.pdf
-│   │   ├── REVIEW.md
-│   │   ├── REVIEW.pdf
-│   │   ├── calculator.py
-│   │   ├── continue_example.py
-│   │   ├── print_volume_of_sphere.py
-│   │   └── solutions
-│   │       └── calculator.py
-│   ├── functions_return
-│   │   ├── README.md
-│   │   ├── README.pdf
-│   │   ├── READ_ME.pdf
-│   │   ├── assets
-│   │   │   ├── sample_output_1_1.png
-│   │   │   └── sample_output_1_2.png
-│   │   ├── class.py
-│   │   └── solution
-│   ├── fundamentals_1
-│   │   ├── README.md
-│   │   ├── README.pdf
-│   │   ├── assets
-│   │   │   ├── code.png
-│   │   │   ├── current_year_int.png
-│   │   │   ├── file.png
-│   │   │   ├── folder_structure.png
-│   │   │   ├── more_variables.png
-│   │   │   ├── name_object_spaces.png
-│   │   │   ├── new_file.png
-│   │   │   ├── output.png
-│   │   │   ├── run.png
-│   │   │   └── shell.png
-│   │   └── hello_world.py
-│   ├── fundamentals_2
-│   │   ├── README.md
-│   │   ├── README.pdf
-│   │   ├── assets
-│   │   │   ├── displaying_input.png
-│   │   │   ├── displaying_prompted_input.png
-│   │   │   ├── input_type.png
-│   │   │   ├── prompting_input.png
-│   │   │   ├── reassignment.png
-│   │   │   ├── volume_of_cone.png
-│   │   │   └── waiting_for_input.png
-│   │   └── volume_of_cone.py
-│   ├── introduction
-│   │   ├── README.md
-│   │   └── README.pdf
-│   ├── manipulating_strings
-│   │   ├── README.md
-│   │   ├── README.pdf
-│   │   ├── REVIEW.md
-│   │   ├── REVIEW.pdf
-│   │   ├── assets
-│   │   │   └── ascii-table-alpharithms-scaled.jpg
-│   │   ├── membership.py
-│   │   └── value_of_words.py
-│   ├── midterm_1_review
-│   │   ├── README.md
-│   │   ├── README.pdf
-│   │   ├── REVIEW.md
-│   │   ├── REVIEW.pdf
-│   │   ├── review.py
-│   │   └── solution
-│   │       └── indexing_solution.py
-│   ├── modules_boolean
-│   │   ├── README.md
-│   │   ├── README.pdf
-│   │   ├── assets
-│   │   │   ├── module_format.png
-│   │   │   ├── pow_docs.png
-│   │   │   ├── skip.png
-│   │   │   └── turtle_square.png
-│   │   ├── coin_flip.py
-│   │   ├── random_integers.py
-│   │   ├── student_body.py
-│   │   └── volume_of_cone.py
-│   ├── number_systems
-│   │   ├── README.md
-│   │   ├── README.pdf
-│   │   ├── assets
-│   │   │   ├── binary_tool.png
-│   │   │   ├── dec_to_bin.png
-│   │   │   ├── displaying_input.png
-│   │   │   ├── displaying_prompted_input.png
-│   │   │   ├── input_type.png
-│   │   │   ├── module_format.png
-│   │   │   ├── pow_docs.png
-│   │   │   ├── prompting_input.png
-│   │   │   ├── skip.png
-│   │   │   ├── turtle_square.png
-│   │   │   └── waiting_for_input.png
-│   │   ├── course_number.py
-│   │   └── student_body.py
-│   ├── selection_statements
-│   │   ├── README.md
-│   │   ├── README.pdf
-│   │   ├── age_restrictions.py
-│   │   ├── assets
-│   │   │   └── if.png
-│   │   └── quiz_one.py
-│   ├── string_sequences
-│   │   ├── CLASSWORK.md
-│   │   ├── CLASSWORK.pdf
-│   │   ├── README.md
-│   │   ├── README.pdf
-│   │   └── game_loop.py
-│   ├── strings_review
-│   │   ├── README.md
-│   │   ├── README.pdf
-│   │   ├── flow.py
-│   │   ├── is_valid_chord.py
-│   │   └── solution
-│   │       ├── flow.py
-│   │       └── is_valid_chord.py
-│   └── while_loops
+│   ├── lecture_topic_a
+│   │   ├── README.md  (lecture notes)
+│   │   └── example.py   (any python files related to lecture)
+│   └── lecture_topic_b
 │       ├── README.md
-│       ├── README.pdf
-│       ├── assets
-│       │   ├── if.png
-│       │   ├── operators.png
-│       │   └── while_loop.png
-│       ├── game_over.py
-│       ├── new_life.py
-│       └── sound_euphonium.py
+│       ├── example.py
+│       └── solution
+│           └── example_solution.py
 └── practice
     └── loops
         ├── README.md
@@ -183,10 +61,9 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 18. [**Python Dictionaries**](lectures/dictionaries/)
 19. [**Dictionary Methods and Iteration**](lectures/dictionary_methods/)
 20. [**File Input**](lectures/file_input/)
-
+21. [**File Output and Exceptions**](lectures/file_output/)
 
 <!--
-19. [**File Output**](lectures/file_output/)
 20. [**File IO Review**](lectures/files_review/)
 22. [**Midterm 2 Review**](lectures/midterm_2_review/)
 24. [**Intro to Object-Oriented Programming**](lectures/oop_1/)
