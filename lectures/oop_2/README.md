@@ -1,6 +1,6 @@
-## Lecture 24
+<h2 align=center>Lecture 24</h2>
 
-# Object-Oriented Programming
+<h1 align=center>Object-Oriented Programming</h1>
 
 ### 9 Frimaire, CCXXXI
 
