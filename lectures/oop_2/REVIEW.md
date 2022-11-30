@@ -4,7 +4,7 @@
 
 ### 9 Frimaire, CCXXXI
 
-***Song of the day***: _[**White Awakening**](https://youtu.be/YAFRdQ4lzBY) by Les Rallizes Dénudés (sometimes in the 60s)._
+***Song of the day***: _[**White Awakening**](https://youtu.be/YAFRdQ4lzBY) by Les Rallizes Dénudés (1960s)._
 
 ---
 
