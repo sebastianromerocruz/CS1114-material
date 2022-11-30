@@ -64,10 +64,10 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 21. [**File Output and Exceptions**](lectures/file_output/)
 22. [**Midterm 2 Review**](lectures/midterm_2_review/)
 23. [**Intro to Object-Oriented Programming**](lectures/oop_1/)
+24. [**Intro to Object-Oriented Programming: Methods and the `__str__()` Method**](lectures/oop_2/)
 
 <!--
 20. [**File IO Review**](lectures/files_review/)
-25. [**Intro to Object-Oriented Programming: Methods and the `__str__()` Method**](lectures/oop_2/)
 26. [**Intro to Object-Oriented Programming: Dunder / "Magic" Methods**](lectures/oop_3/)
 27. [**Comprehensions**](lectures/comprehensions/)
 28. [**Final Exam Review**](lectures/final_review/) -->
