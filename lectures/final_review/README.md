@@ -1,6 +1,6 @@
-## Lecture 28
+<h2 align=center>Lecture 27</h2>
 
-# Review
+<h1 align=center>Final Exam Review</h1>
 
 ### 21 Frimaire, Year CCXXXI
 
@@ -25,7 +25,7 @@ Nature: friendly
 Level: 5
 ```
 
-The `Eeevee` class will have three instance attributes:
+The `Eeevee` class will have five instance attributes:
 
 - `nickname`: The nickname passed by the user.
 - `eeveelution_status`: The current Eeveelutionary status of the `Eevee` object. The value of this attribute is `None` when the Eevee is un-evolved, or either `"Vaporeon"`, `"Jolteon"`, or `"Flareon"` if it has been evolved. We can assume that all newly instantiated `Eevee` objects start un-evolved.
