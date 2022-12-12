@@ -28,7 +28,7 @@ Level: 5
 The `Eeevee` class will have five instance attributes:
 
 - `nickname`: The nickname passed by the user.
-- `eeveelution_status`: The current Eeveelutionary status of the `Eevee` object. The value of this attribute is `None` when the Eevee is un-evolved, or either `"Vaporeon"`, `"Jolteon"`, or `"Flareon"` if it has been evolved. We can assume that all newly instantiated `Eevee` objects start un-evolved.
+- `evol_status`: The current Eeveelutionary status of the `Eevee` object. The value of this attribute is `None` when the Eevee is un-evolved, or either `"Vaporeon"`, `"Jolteon"`, or `"Flareon"` if it has been evolved. We can assume that all newly instantiated `Eevee` objects start un-evolved.
 - `type`: A string containing the current type of the `Eevee` object. We can assume that all newly instantiated `Eevee` objects are of type `"normal"`.
 - `nature`: A string containing the nature denoted in the file. Will be `None` if file is not successfully opened.
 - `level`: An integer containing this object's level as denoted in the file. Will be `1` if file is not successfully opened.
@@ -44,7 +44,7 @@ If either of these conditions is not met, `can_evolve()` will return `False`.
 
 ---
 
-Next, define a method called `evolve()` (_**sig**: `str` => `None`_). `evolve()` will accept one parameter, `stone_name`, a string containing the name of the evolutionary stone that the user wishes to give to this `Eevee` object. If the `Eevee` object meets all conditions necessary to evolve, `evolve()` will update the `eeveelution_status`
+Next, define a method called `evolve()` (_**sig**: `str` => `None`_). `evolve()` will accept one parameter, `stone_name`, a string containing the name of the evolutionary stone that the user wishes to give to this `Eevee` object. If the `Eevee` object meets all conditions necessary to evolve, `evolve()` will update the `evol_status`
 and `type` of the `Eevee` object to their appropriate new values.
 
 To make this a little simpler, you may assume that the following dictionary is already defined at the top of your file, which you may use if you find it useful (in other words, you **don't** have to use it if you don't find it useful):
@@ -98,8 +98,8 @@ Output:
 ```text
 ['Camille', 'friendly', 5, 'normal']
 ['Camille', 'Jolteon', 'friendly', 5, 'electric']
-['Fryderyk', 5, 'normal']
-['Fryderyk', 'Flareon', 5, 'fire']
+['Fryderyk', 1, 'normal']
+['Fryderyk', 'Flareon', 1, 'fire']
 ```
 
 ---
