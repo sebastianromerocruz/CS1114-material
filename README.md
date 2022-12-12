@@ -67,10 +67,8 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 24. [**Intro to Object-Oriented Programming: Methods and the `__str__()` Method**](lectures/oop_2/)
 25. [**Intro to Object-Oriented Programming: Dunder / "Magic" Methods**](lectures/oop_3/)
 26. [**Comprehensions**](lectures/comprehensions/)
-
-<!--
-20. [**File IO Review**](lectures/files_review/)
-28. [**Final Exam Review**](lectures/final_review/) -->
+27. [**Final Exam Review**](lectures/final_review/)
+<!-- 28. [**File IO Review**](lectures/files_review/) -->
 
 ---
 
