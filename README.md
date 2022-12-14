@@ -68,7 +68,7 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 25. [**Intro to Object-Oriented Programming: Dunder / "Magic" Methods**](lectures/oop_3/)
 26. [**Comprehensions**](lectures/comprehensions/)
 27. [**Final Exam Review**](lectures/final_review/)
-<!-- 28. [**File IO Review**](lectures/files_review/) -->
+28. [**Extra File IO Review**](lectures/files_review/)
 
 ---
 
