@@ -8,6 +8,8 @@
 
 ---
 
+**If you're reading this, _STUDY LIST COMPREHENSIONS_.**
+
 ### _Review: Telegram Parsing_
 
 #### _Background_
