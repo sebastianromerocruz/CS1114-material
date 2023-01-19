@@ -41,7 +41,7 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 <sub>To be released every Monday and Wednesday after 5pm.</sub>
 
 1. [**Introduction**](lectures/introduction/)
-2. [**Programming Fundamentals 1**](lectures/fundamentals_1/)
+<!-- 2. [**Programming Fundamentals 1**](lectures/fundamentals_1/)
 3. [**Programming Fundamentals 2**](lectures/fundamentals_2/)
 4. [**Number Systems**](lectures/number_systems/)
 5. [**Python Modules and Boolean Expressions**](lectures/modules_boolean/)
@@ -68,8 +68,8 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 25. [**Intro to Object-Oriented Programming: Dunder / "Magic" Methods**](lectures/oop_3/)
 26. [**Comprehensions**](lectures/comprehensions/)
 27. [**Final Exam Review**](lectures/final_review/)
-28. [**Extra File IO Review**](lectures/files_review/)
+28. [**Extra File IO Review**](lectures/files_review/) -->
 
 ---
 
-<sub>© Sebastián Romero Cruz 2022</sub>
+<sub>© Sebastián Romero Cruz 2023</sub>
