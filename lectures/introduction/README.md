@@ -2,9 +2,9 @@
 
 <h1 align=center>Introduction</h1>
 
-### September 7th, 2022
+### 3 Pluviôse, Year CCXXXI
 
-***Song of the day***: _[**Omokage (produced by Vaundy)**](https://youtu.be/Z2Z9V-4DMGw) by milet, Aimer, and Lilas Ikuta (2021)._
+***Song of the day***: _[**theme / cinema paradiso [live]**](https://youtu.be/JzTjgLrqi2g) by kurayamisaka (2023)._
 
 ---
 
