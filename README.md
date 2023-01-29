@@ -42,8 +42,8 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 
 1. [**Introduction**](lectures/introduction/)
 2. [**Programming Fundamentals 1**](lectures/fundamentals_1/)
-<!-- 3. [**Programming Fundamentals 2**](lectures/fundamentals_2/)
-4. [**Number Systems**](lectures/number_systems/)
+3. [**Programming Fundamentals 2**](lectures/fundamentals_2/)
+<!-- 4. [**Number Systems**](lectures/number_systems/)
 5. [**Python Modules and Boolean Expressions**](lectures/modules_boolean/)
 6. [**Selection Statements: `if`, and `else`**](lectures/selection_statements/)
 7. [**Selection Statements: `elif` and Common Mistakes**](lectures/selection_statements#part-3-elif-statements)
