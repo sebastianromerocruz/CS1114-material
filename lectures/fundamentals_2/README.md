@@ -274,7 +274,7 @@ We can represent the effects of the `not` operator by using a _truth table_:
 
 To give linguistically relatable examples:
 
-- "The year is 2022" evaluates to `True`
+- "The year is 2023" evaluates to `True`
 - `not` "NYU is in New York" evaluates to `False`
 
 `not` is a pretty nice operator because it only involves the use of only one boolean expression (the technical term for
@@ -302,9 +302,9 @@ here would be the word "and". Conveniently, that corresponds exactly to Python's
 
 Let's look at some non-programming examples:
 
-- "The year is 2022 and NYU is in New York" evaluates to `True`
+- "The year is 2023 and NYU is in New York" evaluates to `True`
 - "The year is 2018 and NYU is in New York" evaluates to `False`
-- "The year is 2022 and `not` NYU is in New York" evaluates to `False`
+- "The year is 2023 and `not` NYU is in New York" evaluates to `False`
 - "The year is 2018 and NYU is in the city of York" evaluates to `False`
 
 By the way, since `and` requires two boolean expressions to operate, it is sometimes called a _binary_ boolean operator. 
@@ -328,9 +328,9 @@ probably guessed by now) we would instead use the `or` operator.
 
 This one is a little more difficult to think about, so let's look at some examples:
 
-- "The year is 2022 or NYU is in New York" evaluates to `True`
+- "The year is 2023 or NYU is in New York" evaluates to `True`
 - "The year is 2018 or NYU is in New York" evaluates to `True`
-- "The year is 2022 or `not` NYU is in New York" evaluates to `True`
+- "The year is 2023 or `not` NYU is in New York" evaluates to `True`
 - "The year is 2018 or NYU is in the city of York" evaluates to `False`
 - "You didn't get a special invitation to the Met Gala, or you didn't donate $30,000.00 to the Met's Anna Wintour 
 Costume Center" evaluates to `False`
