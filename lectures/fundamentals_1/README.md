@@ -2,7 +2,7 @@
 
 <h1 align=center>Programming Fundamentals: Values, Types, and Variables</h2>
 
-### 5 Pluviôse, Year CCXXXI
+<h3 align=center>5 Pluviôse, Year CCXXXI</h3>
 
 ***Song of the day***: _[**Dances**](https://youtu.be/7NvcYGIDQfc) by Воплі Відоплясова (BB) (1993)_
 

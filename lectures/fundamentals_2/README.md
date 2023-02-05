@@ -2,7 +2,7 @@
 
 <h1 align=center>Programming Fundamentals: Operators, Expressions, and Program Output</h1>
 
-### 10 Pluviôse, Year CCXXXI
+<h3 align=center>10 Pluviôse, Year CCXXXI</h3>
 
 ***Song of the day***: _[**Dark Entries**](https://youtu.be/bF-fGRJxmig) by Bauhaus (1980)._
 
