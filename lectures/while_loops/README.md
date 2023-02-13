@@ -4,7 +4,7 @@
 
 ### 24 Pluviôse Year CCXXXI
 
-***Song of the day***: _[**Faded Heart**](https://youtu.be/eF2hDcFIfqs) by BØRNS (2017)._
+***Song of the day***: _[**Why Do I Keep Counting?**](https://youtu.be/Nzz2ml0dboA) by The Killers (2006)._
 
 ---
 
@@ -25,7 +25,7 @@ The [**Motion Pictures Association**](https://www.motionpictures.org/film-rating
 - Ask the user for their age.
     - If the user's age is 17 years or older, print `"ALLOWED"`.
     - If the user's age is under 17 and the rating of the movie is R, then ask the user to enter `'y'` or `'Y'` if they are accompanied by anybody, or `'n'`/`'N'`. If they enter either of the latter two character, print `"NOT ALLOWED"`.
-- If the user enters '`y`' or `'Y`' for the above sub-bullet, then ask them for the age of the person accompanying them.
+- If the user enters `'y'` or `'Y'` for the above sub-bullet, then ask them for the age of the person accompanying them.
     - If that person is 17 years or older, print `"ALLOWED"`, otherwise, print `"NOT ALLOWED"`.
 
 Sample executions (your formatting does not need to look the same):
