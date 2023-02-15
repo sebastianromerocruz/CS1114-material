@@ -47,8 +47,9 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 5. [**Selection Statements: `if`, and `else`**](lectures/selection_statements/)
 6. [**Selection Statements: `elif` and Common Mistakes**](lectures/selection_statements#part-3-elif-statements)
 7. [**Control-Flow Structures: The `while`-Loop**](lectures/while_loops/)
+8. [**Control-Flow Structures: The `for`-Loop**](lectures/for_loops/)
+
 <!-- 5. [**Python Modules and Boolean Expressions**](lectures/modules_boolean/)
-9. [**Control-Flow Structures: The `for`-Loop**](lectures/for_loops/)
 10. [**Loops Review and Strings as Sequences**](lectures/string_sequences/)
 11. [**Manipulating Strings**](lectures/manipulating_strings/)
 12. [**Strings Review**](lectures/strings_review/)

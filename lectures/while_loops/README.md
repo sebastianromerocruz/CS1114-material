@@ -2,7 +2,7 @@
 
 <h1 align=center>Control Flow Structures: <code>while</code>-loops</h1>
 
-### 24 Pluviôse Year CCXXXI
+<h3 align=center>24 Pluviôse Year CCXXXI</h3>
 
 ***Song of the day***: _[**Why Do I Keep Counting?**](https://youtu.be/Nzz2ml0dboA) by The Killers (2006)._
 
