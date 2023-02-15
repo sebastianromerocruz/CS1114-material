@@ -15,7 +15,7 @@
 
 Let's try making a [**number guessing game**](https://www.mathsisfun.com/games/guess_number.html).
 
-1. Ask the user to enter a number between `10` and `100`, inclusive. This number (let's call it **`hi_limit`**) will represent the highest possible random number that out program can generate. If the user enters any number that is not in the range of _[1, 100]_, continue asking them to input a number until they do so (you can assume that they will always enter numerical characters).
+1. Ask the user to enter a number between `10` and `100`, inclusive. This number (let's call it **`hi_limit`**) will represent the highest possible random number that out program can generate. If the user enters any number that is not in the range of _[10, 100]_, continue asking them to input a number until they do so (you can assume that they will always enter numerical characters).
 
 2. Generate a random number in the range of _[9, **`hi_limit`**]_.
 
