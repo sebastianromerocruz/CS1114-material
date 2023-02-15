@@ -490,3 +490,7 @@ For now, these are the functions from the `random()` module that you will be usi
 others later in the semester.
 
 Here's the `random` module's [**documentation**](https://docs.python.org/3/library/random.html) for your reference.
+
+---
+
+<sub>**Previous: [Programming Fundamentals 2](/lectures/fundamentals_2)** || **Next: [Selection Statements: `if`, `elif`, `else`, and Common Mistakes](/lectures/selection_statements)**</sub>

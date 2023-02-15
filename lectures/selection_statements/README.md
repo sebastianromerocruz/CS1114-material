@@ -435,3 +435,7 @@ No entry for underage users.
 What went wrong? The problem here is that **every time Python sees an `if`-statement, it will execute it**. In other 
 words, using only `if`-statements is not like taking a single path of a series of option, but rather like taking several
 single paths of only two options.
+
+---
+
+<sub>**Previous: [Number Systems and Python Modules](/lectures/number_systems)** || **Next: [Control-Flow Structures: The `while`-Loop](/lectures/while_loops)**</sub>

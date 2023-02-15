@@ -238,4 +238,4 @@ CS/CE/EE major.
 
 ---
 
-<sub>**Previous: [Introduction](lectures/introduction)** || **Next: [Programming Fundamentals 2](lectures/fundamentals_2)**</sub>
+<sub>**Previous: [Introduction](/lectures/introduction)** || **Next: [Programming Fundamentals 2](/lectures/fundamentals_2)**</sub>

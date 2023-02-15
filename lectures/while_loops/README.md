@@ -281,3 +281,7 @@ print("The final value of our counter is:", counter)
 Oh and, before anybody asks, the use of the `break` keyword is ***absolutely forbidden*** in this class. The situations
 where it is absolutely necessary are so few and far between that if you find yourself needing it in this class, you are
 doing something wrong.
+
+---
+
+<sub>**Previous: [Selection Statements: `if`, `elif`, `else`, and Common Mistakes](/lectures/selection_statements)** || **Next: [Control-Flow Structures: The `for`-Loop](/lectures/for_loops)**</sub>
