@@ -60,4 +60,4 @@ at it. My recommendations, thus, are as follows:
 
 ---
 
-<sub>**Next: [Programming Fundamentals 1](lectures/fundamentals_1)**</sub>
+<sub>**Next: [Programming Fundamentals 1](/lectures/fundamentals_1)**</sub>
