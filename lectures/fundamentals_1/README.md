@@ -235,3 +235,7 @@ _**Figure 12**: Examples of namespace vs. object space connections._
 These basically refer to the way values are stored and referenced in your computer's memory. You don't have to know much
 more about this; you'll learn more about memory than you'll ever want to during the rest of your four years as a
 CS/CE/EE major.
+
+---
+
+<sub>**Previous: [Introduction](lectures/introduction)** || **Next: [Programming Fundamentals 2](lectures/fundamentals_2)**</sub>

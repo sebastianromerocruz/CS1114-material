@@ -528,3 +528,7 @@ _**Figure 11**: PyCharm's console displaying the type of `course_number` on the 
 
 There is essentially no way of changing this behavior. Python, by design, received all input in string form. It's up to
 us, the programmers, to parse that input into a usable form.
+
+---
+
+<sub>**Previous: [Programming Fundamentals 1](lectures/fundamentals_1/)** || **Next: [Number Systems and Python Modules](lectures/number_systems/)**</sub>
