@@ -4,27 +4,82 @@
 
 <h3 align=center>26 Pluviôse Year CCXXXI</h3>
 
+0. [**`while`-Loop Review**](#part-0-while-loop-review)
 1. [**Control Flow Structures (so far)**](#part-1-control-flow-structures-so-far)
 2. [**The `for`-Loop**](#part-2-the-for-loop)
 3. [**When Should I Use A `while`-Loop And When Should I Use A `for`-Loop?**](#part-3-when-should-i-use-a-while-loop-and-when-should-i-use-a-for-loop)
 
 ***Song of the day***: _[**Spending all my time**](https://youtu.be/H4znsXCH_2Y) by Perfume (2012)._
 
-<!-- ### Part 0: _`while`-Loop Review_
+### Part 0: _`while`-Loop Review_
 
-In the card game [**'Twenty-One'**](https://en.wikipedia.org/wiki/Twenty-One_(banking_game)) (or 'Vingt-Un' in a superior language), the dealer of cards (known as the "banker") deals two cards, face down, to each other player (known as "punters"). The goal of the game is to get as close to the number 21 as possible by adding the numbers on their cards. If a punter wishes, they may choose to be dealt a third card. The catch is that, of course, a third card could put their score _over_ 21, in which case you automatically lose.
+Let's try making a [**number guessing game**](https://www.mathsisfun.com/games/guess_number.html).
 
-Let's simulate a game of Twenty-One using Python. First ask the user if they would like to play. The player _must_ enter either `'y'` or `'n'` to continue. If the player enters `'n'`, the game simply ends.
+1. Ask the user to enter a number between `10` and `100`, inclusive. This number (let's call it **`hi_limit`**) will represent the highest possible random number that out program can generate. If the user enters any number that is not in the range of _[1, 100]_, continue asking them to input a number until they do so (you can assume that they will always enter numerical characters).
 
-If they user decides to continue, generate two random numbers in the range of [1, 11] and show them to the player. Ask the player if they would like to draw a third card. The player _must_ enter either `'y'` or `'n'` to continue. If the player enters `'y'`, generate a third random number in the range of [1, 11]. In both cases add all two/three numbers together to calculate the player's final score.
+2. Generate a random number in the range of _[9, **`hi_limit`**]_.
 
-Finally we'll simulate the computer's "score" by generating a number between [0, 100]. If the generated number is _not_ between [3, 33], then keep generating numbers **until it falls in the range of [3, 33]**. Of course, we could simply generate a number in the range of [3, 33] instead, but this way adds a little more statistical randomness to the game.
+3. Have the user enter numbers until they guess the number generated in step 2. 
+    - _(Optional)_ You can make this easier on the user by telling them whether their incorrect guess was lower or higher than the correct answer.
 
-If the user's final score falls closer to 21 than the computer's, but not above 21, then they win. If the computer's final score falls closer to 21 than the player's, but not above 21, then the computer wins.
+4. _(Optional)_ If you want a challenge, give them only 3 chances to guess the correct number.
 
-Sample executions:
- -->
+Sample behaviour (your output format need not look the same):
 
+```
+Enter a number from 10 to 100: -4
+Invalid input! Enter a number from 10 to 100: 101
+Invalid input! Enter a number from 10 to 100: 42
+
+Guess the number: [9, 42] 20
+Incorrect! Your guess was lower than the answer!
+
+Guess the number: [9, 42] 30
+Incorrect! Your guess was higher than the answer!
+
+Guess the number: [9, 42] 25
+Correct!
+```
+```
+Enter a number from 10 to 100: 50
+
+Guess the number: [9, 50] -4
+Incorrect! Your guess was lower than the answer!
+
+Guess the number: [9, 50] 35
+Incorrect! Your guess was lower than the answer!
+
+Guess the number: [9, 50] 47
+Incorrect! Your guess was lower than the answer!
+
+Guess the number: [9, 50] 48
+Correct!
+```
+With only 3 guesses:
+```
+Enter a number from 10 to 100: 30
+
+Guess the number: [9, 30] 25
+Incorrect! 2 guess(es) left.
+Your guess was higher than the answer!
+
+Guess the number: [9, 30] 14
+Incorrect! 1 guess(es) left.
+Your guess was higher than the answer!
+
+Guess the number: [9, 30] 10
+You lose! The correct answer was 9!
+```
+```
+Enter a number from 10 to 100: 15
+
+Guess the number: [9, 15] 12
+Incorrect! 2 guess(es) left.
+Your guess was higher than the answer!
+
+Guess the number: [9, 15] 11
+Correct!
+```
 
 ### Part 1: _Control Flow Structures (so far)_
 
