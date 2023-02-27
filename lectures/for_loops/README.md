@@ -326,4 +326,4 @@ Oh and, to reiterate: no, the `break` keyword is absolutely not allowed in this 
 
 ---
 
-<sub>**Previous: [Control-Flow Structures: The `while`-Loop](/lectures/while_loops)**</sub>
+<sub>**Previous: [Control-Flow Structures: The `while`-Loop](/lectures/while_loops)** || **Next: [Loop Review and Strings as Sequences](/lectures/string_sequences)**</sub>

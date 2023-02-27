@@ -1,23 +1,19 @@
 # Constants
-lower_credit_limit = 40
-upper_credit_limit = 64
+LOWER_CREDIT_LIMIT = 40
+UPPER_CREDIT_LIMIT = 64
 
-# Asking for user input
 dean_permission_input = input("Do you have permission from the dean? [y/n] ")
-advisor_permission_input = input("Do you have permission from your advisor? [y/n] ")
-senior_status_input = input("Do you hold senior status? [y/n] ")
-accumulated_credits = float(input("How many credits do you have? "))
 
-# Student information
-has_dean_permission = dean_permission_input == 'y'
-has_advisor_permission = has_dean_permission == 'y'
-is_approved_senior = senior_status_input == 'y'
+if dean_permission_input == 'y':
+    print("This student can graduate because they have the dean's permissions.")
+else:
+    advisor_permission_input = input("Do you have permission from your advisor? [y/n] ")
+    senior_status_input = input("Do you hold senior status? [y/n] ")
+    accumulated_credits = float(input("How many credits do you have? "))
 
-# Generating permission
-condition_one = accumulated_credits >= upper_credit_limit and is_approved_senior
-condition_two = accumulated_credits >= lower_credit_limit and has_advisor_permission
-
-can_graduate = has_dean_permission or condition_one or condition_two
-
-# Graduation status display
-print("This student can graduate:", can_graduate)
+    if accumulated_credits >= LOWER_CREDIT_LIMIT and advisor_permission_input == 'y':
+        print("This student can graduate because they have their advisor's permission and have the necessary credits.")
+    elif accumulated_credits >= UPPER_CREDIT_LIMIT and senior_status_input == 'y':
+        print("This student can graduate because they are an approved senior and have the necessary credits.")
+    else:
+        print("This student cannot graduate.")
