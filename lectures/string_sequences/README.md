@@ -459,4 +459,4 @@ Jul	Aug	Sep	Oct	Nov	Dec
 
 ---
 
-<sub>**Previous: [Loop Review and Strings as Sequences](/lectures/string_sequences)**</sub>
+<sub>**Previous: [Control-Flow Structures: The `while`-Loop](/lectures/while_loops)**</sub>
