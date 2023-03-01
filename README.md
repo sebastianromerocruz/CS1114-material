@@ -49,6 +49,7 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 7. [**Control-Flow Structures: The `while`-Loop**](lectures/while_loops/)
 8. [**Control-Flow Structures: The `for`-Loop**](lectures/for_loops/)
 9. [**Loops Review and Strings as Sequences**](lectures/string_sequences/)
+10. [**Manipulating Strings**](lectures/manipulating_strings/)
 
 <!-- 5. [**Python Modules and Boolean Expressions**](lectures/modules_boolean/)
 11. [**Manipulating Strings**](lectures/manipulating_strings/)
