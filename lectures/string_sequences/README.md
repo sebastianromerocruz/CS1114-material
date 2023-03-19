@@ -459,4 +459,4 @@ Jul	Aug	Sep	Oct	Nov	Dec
 
 ---
 
-<sub>**Previous: [Control-Flow Structures: The `while`-Loop](/lectures/while_loops)**</sub>
+<sub>**Previous: [Control-Flow Structures: The `while`-Loop](/lectures/while_loops)** | **Next: [Manipulating Strings](/lectures/manipulating_strings)**</sub>

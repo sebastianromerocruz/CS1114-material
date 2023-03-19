@@ -354,3 +354,5 @@ the following syntax:
 >>> jazz_musician[2:len(jazz_musician):2]
 'mdJml'
 ```
+
+<sub>**Previous: [Manipulating Strings](/lectures/manipulating_strings)** | **Next: [Functions: Parameters](/lectures/functions_parameters/)**</sub>

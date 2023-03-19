@@ -50,13 +50,13 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 8. [**Control-Flow Structures: The `for`-Loop**](lectures/for_loops/)
 9. [**Loops Review and Strings as Sequences**](lectures/string_sequences/)
 10. [**Manipulating Strings**](lectures/manipulating_strings/)
+11. [**Functions: Parameters**](lectures/functions_parameters/)
 
 <!-- 5. [**Python Modules and Boolean Expressions**](lectures/modules_boolean/)
-11. [**Manipulating Strings**](lectures/manipulating_strings/)
 12. [**Strings Review**](lectures/strings_review/)
 13. [**Midterm 1 Review (_Read Between The Lines_)**](lectures/midterm_1_review/)
     - [**Loops and Strings Practice**](practice/loops/)
-14. [**Functions: Parameters**](lectures/functions_parameters/)
+
 15. [**Functions: `return`**](lectures/functions_return/)
 16. [**Lists**](lectures/lists/)
 17. [**Memory Maps**](lectures/memory_maps/)
