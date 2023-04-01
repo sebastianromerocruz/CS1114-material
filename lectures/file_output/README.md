@@ -10,6 +10,8 @@
 
 1. [**Review**](#part-1-review)
 2. [**File Output**](#part-1-file-output)
+3. [**Exceptions**](#part-3-exceptions)
+4. [**The `try`-`catch`-`else`-`finally` Structure**](#part-4-the-try-catch-else-finally-structure)
 
 ### Part 1: _Review_
 
