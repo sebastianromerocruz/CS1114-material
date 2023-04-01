@@ -27,6 +27,7 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 11. [**Functions: Parameters**](lectures/functions_parameters/)
 12. [**Functions: `return`**](lectures/functions_return/)
 13. [**File Input**](lectures/file_input/)
+14. [**File Output and Exceptions**](lectures/file_output/)
 
 ### How To Use This Repo
 
