@@ -1,10 +1,12 @@
-## Lecture 16
+<h2 align=center>Lecture 15</h2>
 
-# Python Lists
+<h1 align=center>Python Lists</h1>
 
-### 9 Brumaire, Year CCXXXI
+### 13 Brumaire, Year CCXXXI
 
-***Song of the day:*** _[**ひとりぼっち東京 (Lonesome Tokyo)**](https://youtu.be/MSnLgdQFk1c) by Kessoku Band (2022)._
+***Song of the day:*** _[**Merry Christmas Mr. Lawrence**](https://youtu.be/z9tECKZ60zk) by Ryūichi Sakamoto (Performed in 2022)._
+
+<p align=center><em>💜 Rest In Peace 💜</em></p>
 
 ### Sections
 
@@ -83,6 +85,8 @@ main()
 
 <sub>**Code Block 1**: Your starting code. Since the `display_health()` function has yet to be defined, I have commented
 its invocation out inside the `main()` function. Feel free to uncomment it when you are ready to test it.</sub>
+
+Click [**here**](https://drive.google.com/file/d/18UZnR0_YUPj9gzOMpLwLK7bY-BMcWLkz/view?usp=share_link) to download the `textColour` module. Make sure to place it in the same folder as the `py` file that you are working on.
 
 As usual, you do not need to worry about how any unfamiliar modules and constants work, just know that:
 
