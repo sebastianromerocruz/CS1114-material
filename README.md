@@ -28,6 +28,7 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 12. [**Functions: `return`**](lectures/functions_return/)
 13. [**File Input**](lectures/file_input/)
 14. [**File Output and Exceptions**](lectures/file_output/)
+15. [**Python Lists**](lectures/lists/)
 
 ### How To Use This Repo
 
@@ -60,7 +61,6 @@ That is, each [**lecture**](#Lectures) sub-folder contains a lecture notes `READ
 13. [**Midterm 1 Review (_Read Between The Lines_)**](lectures/midterm_1_review/)
     - [**Loops and Strings Practice**](practice/loops/)
 
-16. [**Lists**](lectures/lists/)
 17. [**Memory Maps**](lectures/memory_maps/)
 18. [**Python Dictionaries**](lectures/dictionaries/)
 19. [**Dictionary Methods and Iteration**](lectures/dictionary_methods/)
