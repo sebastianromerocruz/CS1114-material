@@ -298,6 +298,8 @@ def print_temperatures(filepath):
 
 Closing your file, while not required in this class, is a very important step later down the line in your computer science career. If you don't the file that you are working on, any other function, process, and/or app that wants to make use of this app will not be able to, causing the whole operation to fail.
 
+<sub>**Previous: [File Input](/lectures/file_input/)** | **Next: [File Output and Exceptions](/lectures/file_output/)**</sub>
+
 <!-- 1. [**Warm-Up**](#part-1-warm-up)
 1. [**Data From Files**](#part-2-data-from-files)
     1. [**Step 1: _Open A File_**](#step-1-open-the-file)
