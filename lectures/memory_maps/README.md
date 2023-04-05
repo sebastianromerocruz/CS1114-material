@@ -8,6 +8,13 @@
 
 ---
 
+### Sections
+
+0. [**List Methods**](#part-0-list-methods)
+1. [**Copying Lists and Memory Maps**](#part-1-copying-lists-and-memory-maps)
+2. [**Tuples**](#part-2-tuples)
+3. [**Lists and Strings**](#part-3-lists-and-strings)
+
 ### Part 0: _List Methods_
 
 Here's a list of list methods that you'll want to be aware of in this class
