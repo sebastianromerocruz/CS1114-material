@@ -4,7 +4,7 @@
 
 ### 15 Germinal, Year CCXXXI
 
-***Song of the day:*** _[**Phantom You**](https://music.apple.com/us/album/phantom-you/1643148185?i=1643148567) by 明るよ羊 (2022)._
+***Song of the day:*** _[**True Love Waits**](https://youtu.be/02nS2EC35go) by Radiohead (2022)._
 
 ---
 
@@ -573,5 +573,6 @@ One other cute and useful thing you can do is convert a string into a list of ea
 >>> band_name = "The Natsuyasumi Band"
 >>> list(band_name)
 ['T', 'h', 'e', ' ', 'N', 'a', 't', 's', 'u', 'y', 'a', 's', 'u', 'm', 'i', ' ', 'B', 'a', 'n', 'd']
+```
 
 <sub>**Previous: [Python Lists](/lectures/lists/)** | **Next: Python Dictionaries**</sub>
