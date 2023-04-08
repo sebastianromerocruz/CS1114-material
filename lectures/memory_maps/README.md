@@ -1,12 +1,10 @@
-<h2>Lecture 17</h2>
+<h2 align=center>Lecture 17</h2>
 
-<h1>More On Lists and Memory Maps</h1>
+<h1 align=center>More On Lists and Memory Maps</h1>
 
 ### 15 Germinal, Year CCXXXI
 
 ***Song of the day:*** _[**True Love Waits**](https://youtu.be/02nS2EC35go) by Radiohead (2016)._
-
----
 
 ### Sections
 
@@ -582,4 +580,4 @@ One other cute and useful thing you can do is convert a string into a list of ea
 ['T', 'h', 'e', ' ', 'N', 'a', 't', 's', 'u', 'y', 'a', 's', 'u', 'm', 'i', ' ', 'B', 'a', 'n', 'd']
 ```
 
-<sub>**Previous: [Python Lists](/lectures/lists/)** | **Next: Python Dictionaries**</sub>
+<sub>**Previous: [Python Lists](/lectures/lists/)** | **Next: [Python Dictionaries](/lectures/dictionaries/)**</sub>
