@@ -4,7 +4,7 @@
 
 ### 20 Germinal, Year CCXXXI
 
-***Song of the day***: _[**My List To You**](https://youtu.be/3ioGEpIA6vk) by Yoshiko Tsushima (2022)._
+***Song of the day***: _[**Pictures at an Exhibition - The Great Gate of Kyiv*](https://youtu.be/3ioGEpIA6vk) by Modest Mussorgsky (1874), performed by the Berliner Philharmoniker & Herbert von Karajan (1987)._
 
 ### Sections
 

@@ -32,27 +32,34 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 16. [**Memory Maps**](lectures/memory_maps/)
 17. [**Python Dictionaries**](lectures/dictionaries/)
 
-### How To Use This Repo
+### How To Use This Repository
 
 The general structure of the repo is as follows:
 
 ```
 .
+│
 ├── LICENSE
+│
 ├── README.md
-├── lectures
-│   ├── lecture_topic_a
-│   │   ├── README.md  (lecture notes)
-│   │   └── example.py   (any python files related to lecture)
-│   └── lecture_topic_b
-│       ├── README.md
-│       ├── example.py
-│       └── solution
-│           └── example_solution.py
-└── practice
-    └── loops
+│
+└── lectures
+    │
+    ├── lecture_topic_a
+    │   │
+    │   ├── README.md    (lecture notes)
+    │   │
+    │   └── example.py   (any python files related to lecture)
+    │
+    └── lecture_topic_b
+        │
         ├── README.md
-        └── SOLUTIONS.md
+        │
+        ├── example.py
+        │
+        └── solution
+            │
+            └── example_solution.py
 ```
 
 That is, each [**lecture**](#Lectures) sub-folder contains a lecture notes `README` file along with its supplementary
@@ -64,7 +71,6 @@ That is, each [**lecture**](#Lectures) sub-folder contains a lecture notes `READ
     - [**Loops and Strings Practice**](practice/loops/)
 
 19. [**Dictionary Methods and Iteration**](lectures/dictionary_methods/)
-21. [**File Output and Exceptions**](lectures/file_output/)
 22. [**Midterm 2 Review**](lectures/midterm_2_review/)
 23. [**Intro to Object-Oriented Programming**](lectures/oop_1/)
 24. [**Intro to Object-Oriented Programming: Methods and the `__str__()` Method**](lectures/oop_2/)
