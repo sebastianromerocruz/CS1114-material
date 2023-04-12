@@ -6,7 +6,13 @@
 
 ***Song of the day***: _[**Purple Rose Minuet**](https://youtu.be/A6bdVuHarKo) by Susumu Yokata (2005)._
 
----
+### Sections
+
+1. [**Review**](#part-1-review)
+2. [**Safe Key Lookup and Conditional Expressions**](#part-2-safe-key-lookup)
+3. [**Updating Dictionaries**](#part-3-updating-dictionaries)
+4. [**Dictionary Views**](#part-4-dictionary-views)
+5. [**Dictionary Traversal**](#part-5-dictionary-traversal)
 
 ### Part 1: _Review_
 
@@ -168,7 +174,7 @@ print(message)
 This is probably the simplest way to safely extracting values from a dictionary, but again, the `get()` method only 
 exists for Python dictionaries, and not anywhere else.
 
-### Part 2: Updating dictionaries
+### Part 3: Updating dictionaries
 
 What is the user updated their preferences, changing some originals and adding new preferences?
 
@@ -215,7 +221,7 @@ Output:
 
 So, this is basically the only safe way of quickly "adding" dictionaries together.
 
-### Part 3: _Dictionary views_
+### Part 4: _Dictionary views_
 
 I mentioned that dictionaries are non-sequential containers, and therefore cannot be iterated through the same way
 lists, ranges, strings, and tuples can be:
@@ -335,7 +341,7 @@ Output:
 
 ---
 
-### Part 4: _Dictionary traversal_
+### Part 5: _Dictionary traversal_
 
 Let's use views in this sample problem: let's say we had the video game file from Monday:
 
