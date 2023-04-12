@@ -31,6 +31,7 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 15. [**Python Lists**](lectures/lists/)
 16. [**Memory Maps**](lectures/memory_maps/)
 17. [**Python Dictionaries**](lectures/dictionaries/)
+18. [**Dictionary Methods and Iteration**](lectures/dictionary_methods/)
 
 ### How To Use This Repository
 
@@ -70,7 +71,6 @@ That is, each [**lecture**](#Lectures) sub-folder contains a lecture notes `READ
 13. [**Midterm 1 Review (_Read Between The Lines_)**](lectures/midterm_1_review/)
     - [**Loops and Strings Practice**](practice/loops/)
 
-19. [**Dictionary Methods and Iteration**](lectures/dictionary_methods/)
 22. [**Midterm 2 Review**](lectures/midterm_2_review/)
 23. [**Intro to Object-Oriented Programming**](lectures/oop_1/)
 24. [**Intro to Object-Oriented Programming: Methods and the `__str__()` Method**](lectures/oop_2/)
