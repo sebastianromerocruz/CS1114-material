@@ -492,4 +492,4 @@ def get_all_games_of_console(data, console_name):
 
 [**Here's**](DictionaryIteration.py) the finished implementation.
 
-<sub>**Previous: [Python Dictionaries](/lectures/dictionaries/)** | **Next: [Intro to Object-Oriented Programming]()**</sub>
+<sub>**Previous: [Python Dictionaries](/lectures/dictionaries/)** | **Next: [Intro to Object-Oriented Programming](/lectures/dictionary_methods/)**</sub>

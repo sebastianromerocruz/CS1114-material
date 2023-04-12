@@ -487,4 +487,4 @@ def extract_data_to_dict(data_string):
     return data
 ```
 
-<sub>**Previous: [Memory Maps](/lectures/memory_maps/)** | **Next: [Dictionary Methods and Iteration]()**</sub>
+<sub>**Previous: [Memory Maps](/lectures/memory_maps/)** | **Next: [Dictionary Methods and Iteration](/lectures/dictionary_methods/)**</sub>
