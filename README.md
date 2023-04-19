@@ -32,6 +32,7 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 16. [**Memory Maps**](lectures/memory_maps/)
 17. [**Python Dictionaries**](lectures/dictionaries/)
 18. [**Dictionary Methods and Iteration**](lectures/dictionary_methods/)
+19. [**Comprehensions**](lectures/comprehensions/)
 
 ### How To Use This Repository
 
@@ -75,7 +76,6 @@ That is, each [**lecture**](#Lectures) sub-folder contains a lecture notes `READ
 23. [**Intro to Object-Oriented Programming**](lectures/oop_1/)
 24. [**Intro to Object-Oriented Programming: Methods and the `__str__()` Method**](lectures/oop_2/)
 25. [**Intro to Object-Oriented Programming: Dunder / "Magic" Methods**](lectures/oop_3/)
-26. [**Comprehensions**](lectures/comprehensions/)
 27. [**Final Exam Review**](lectures/final_review/)
 28. [**Extra File IO Review**](lectures/files_review/) -->
 
