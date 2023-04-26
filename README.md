@@ -34,6 +34,7 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 18. [**Dictionary Methods and Iteration**](lectures/dictionary_methods/)
 19. [**Comprehensions**](lectures/comprehensions/)
 20. [**Intro to Object-Oriented Programming**](lectures/oop_1/)
+21. [**Intro to Object-Oriented Programming: Methods and the `__str__()` Method**](lectures/oop_2/)
 
 ### How To Use This Repository
 
@@ -74,7 +75,6 @@ That is, each [**lecture**](#Lectures) sub-folder contains a lecture notes `READ
     - [**Loops and Strings Practice**](practice/loops/)
 
 22. [**Midterm 2 Review**](lectures/midterm_2_review/)
-24. [**Intro to Object-Oriented Programming: Methods and the `__str__()` Method**](lectures/oop_2/)
 25. [**Intro to Object-Oriented Programming: Dunder / "Magic" Methods**](lectures/oop_3/)
 27. [**Final Exam Review**](lectures/final_review/)
 28. [**Extra File IO Review**](lectures/files_review/) -->
