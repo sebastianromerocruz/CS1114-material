@@ -6,9 +6,15 @@
 
 ***Song of the day***: _[**Sgt. Pepper's Lonely Hearts Club Band**](https://youtu.be/lsuJqhLl7R8) by The Flaming Lips [feat. My Morning Jacket, Fever the Ghost & J. Mascis] (2014)._
 
----
+### Sections
 
-### Review: _Mathematical Complex_
+1. [**Review: _Mathematical Complex_**](#part-1-mathematical-complex)
+    1. [**Creating `Complex` Objects**](#creating-complex-objects)
+    2. [**Printing `Complex` Objects**](#printing-complex-objects)
+    3. [**Performing Arithmetic on `Complex` Objects**](#performing-arithmetic-on-complex-objects)
+2. [**Special / "Dunder" Methods**](#part-2-special--dunder-methods)
+
+### Part 1: _Mathematical Complex_
 
 In mathematics, a [**complex number**](https://en.wikipedia.org/wiki/Complex_number) is a value that contains a real 
 number part (that is, any whole or decimal number) and an imaginary part:
@@ -137,9 +143,7 @@ Difference: 41.5 + 102.0i
 Product: 1946.0 - 1088.5i
 ```
 
----
-
-### _Special / Dunder Methods_
+### Part 2: _Special / Dunder Methods_
 
 Last class, we learned how to make our objects look nice as a string using `__str__()`. There's actually a whole suite
 of these methods that provide more refined functionality to your classes.
